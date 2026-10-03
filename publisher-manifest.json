@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ae29c8d3e0882133acc189ca",
+  "owner": "kcmsskxse",
+  "repo": "page-df130591503cd589fcb0669e",
+  "title": "浪浪山(CrossWall)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "df130591503cd589fcb0669e",
+      "a": "浪浪山(CrossWall)",
+      "b": "",
+      "entity": "浪浪山(CrossWall)",
+      "brand": "浪浪山(CrossWall)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "59cf66803eb3573511cb1e7909437f411a822a8b3d1d392e95f8550f1c0c87c1",
+      "content": {
+        "keyword1": "浪浪山(CrossWall)",
+        "keyword2": "",
+        "primary_entity": "浪浪山(CrossWall)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "浪浪山(CrossWall)官方网站提供稳定VPN梯子与机场订阅，覆盖多端客户端下载、流媒体解锁、游戏加速及团队组网方案，套餐透明、节点优质，助您安全畅连全球网络。",
+          "AI_DESCRIPTION": "浪浪山(CrossWall)官方网站提供稳定VPN梯子与机场订阅，覆盖多端客户端下载、流媒体解锁、游戏加速及团队组网方案，套餐透明、节点优质，助您安全畅连全球网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#f3f4f6;color:#111827;line-height:1.65;font-size:16px}a{color:#6d28d9;text-decoration:none}a:hover{text-decoration:underline}.wrap{max-width:960px;margin:0 auto;padding:16px}header{background:#4c1d95;color:#fff;padding:12px 0}header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px}.brand{font-weight:700;font-size:1.25rem}nav a{color:#ede9fe;margin-right:12px;font-size:0.95rem}main{padding:8px 0 32px}h1{font-size:1.75rem;color:#4c1d95;margin:20px 0 12px;line-height:1.3}h2{font-size:1.35rem;color:#5b21b6;margin:28px 0 12px;border-bottom:2px solid #ddd6fe;padding-bottom:6px}h3{font-size:1.1rem;color:#6d28d9;margin:16px 0 8px}p,li{margin-bottom:10px}ul,ol{padding-left:1.25rem}.lead{font-size:1.05rem;color:#374151}.cols{display:flex;flex-direction:column;gap:16px}@media(min-width:720px){.cols{flex-direction:row}.cols>div{flex:1}.plans{grid-template-columns:repeat(3,1fr)}} .card{background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:16px}.featured{border:2px solid #7c3aed;background:#f5f3ff}.price{font-size:1.4rem;font-weight:700;color:#5b21b6}.sub{color:#6b7280;font-size:0.9rem}.feat{list-style:none;padding:0}.feat li{padding:6px 0;border-bottom:1px solid #f3f4f6}.tag{display:inline-block;background:#7c3aed;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:4px;margin-bottom:8px}details{background:#fff;border:1px solid #e5e7eb;border-radius:6px;margin-bottom:10px;padding:10px 14px}summary{font-weight:600;color:#4c1d95;cursor:pointer}details p{margin:8px 0 0;color:#374151}.note{background:#ede9fe;padding:12px;border-radius:6px;margin:16px 0}footer{background:#1f2937;color:#d1d5db;padding:24px 0;font-size:0.9rem}footer a{color:#c4b5fd}.links{display:flex;flex-wrap:wrap;gap:8px 16px;margin:8px 0}.ad{background:#fff;border:1px dashed #a78bfa;padding:12px;margin:16px 0;text-align:center;color:#6b7280}.plans{display:grid;grid-template-columns:1fr;gap:16px}</style><header><div class=\"wrap\"><span class=\"brand\">浪浪山(CrossWall)</span><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">使用说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main class=\"wrap\"><h1>浪浪山(CrossWall)</h1><p class=\"lead\">浪浪山(CrossWall)是面向个人与团队的官方 VPN 加速器与机场订阅服务，提供稳定节点、流媒体解锁与多端客户端支持，帮助用户安全、高效地访问全球网络资源。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"cols\"><div><p>浪浪山(CrossWall)专注跨境网络加速，采用自建骨干与优质中转结合的节点架构，覆盖亚洲、北美与欧洲主要地区。服务以订阅制机场模式运营，用户可按流量与同时在线设备数选择基础版、旗舰版或团队版，年付可锁定更低单价。</p><p>线路分层清晰：普通节点池适合浏览与基础影音；旗舰与团队套餐提供 IPLC 专线与更高带宽，面向游戏对战、高清流媒体与多人共享。官方网站集中展示套餐对比、操作说明与客户端导入步骤，避免用户在非官方渠道获取残缺配置。</p></div><div class=\"card\"><h3>服务要点</h3><ul><li>多地区节点，延迟与可用性定期维护</li><li>按套餐提供基础或全节点原生流媒体解锁</li><li>兼容 Clash、Shadowrocket、v2rayN 等主流客户端</li><li>旗舰及以上提供优先工单与客户经理通道</li></ul></div></div></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为浪浪山(CrossWall)现行公开套餐。流量按自然月重置，同时在线设备数计入套餐上限。年付适合长期使用，价格已在各档标明。</p><div class=\"plans\"><div class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"sub\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#guide\">查看开通与导入步骤</a></p></div><div class=\"card featured\"><span class=\"tag\">推荐</span><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"sub\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#scenes\">查看适用场景</a></p></div><div class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"sub\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#faq\">团队开通常见问题</a></p></div></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"cols\"><div class=\"card\"><h3>流媒体与资讯</h3><p>旗舰版强调全节点原生解锁，适合跨境观看影视与收听音乐。基础版可覆盖常见资讯站与部分平台，遇到地区墙时可切换标注解锁的节点。</p></div><div class=\"card\"><h3>游戏与实时对战</h3><p>IPLC 专线用于降低跨洋抖动与丢包，旗舰版对此做了优化。团队版可把额度分给多台主机或工作室设备，减少反复切换账号。</p></div><div class=\"card\"><h3>远程办公与学习</h3><p>访问代码仓库、文献库与协作文档时，代理分流可让国内站点直连、境外走加速。团队版支持按域名定制路由，便于统一出口策略。</p></div></div></section><section id=\"guide\"><h2>操作说明</h2><p>从对比套餐到成功连接，浪浪山(CrossWall)建议走官方订阅链接，再在自选客户端中导入。请勿使用来路不明的配置文件。</p><ol><li>在套餐对比中确认流量、设备数与是否需要 IPLC 或全量流媒体解锁，完成订阅后进入账户中心。</li><li>复制 Clash 通用订阅或对应客户端的订阅 URL，该地址用于自动拉取最新节点。</li><li>打开<a href=\"#download\">客户端下载</a>说明，按 Windows、macOS、Android 或 iOS 安装兼容软件。</li><li>在客户端添加订阅并更新，选择延迟较低或带解锁标识的节点连接；可开启规则模式实现国内外分流。</li><li>流媒体失败时更换原生解锁节点；游戏场景优先选择 IPLC 线路。设备超限请先下线闲置终端或升级套餐。</li></ol><div class=\"note\">流量在计费周期内用尽后可能降速或暂停直至重置。同一订阅请控制同时在线数，以免触发保护策略。节点与解锁范围可能随上游调整，请以客户端实时列表为准。</div></section><section id=\"download\"><h2>客户端下载与官网指引</h2><p>浪浪山(CrossWall)不捆绑单一客户端，而是提供机场订阅，由用户在各软件官方渠道下载安装包后导入。以下为常见组合，页面内链接仅作章节跳转，安装包请到对应软件官网获取。</p><h3>桌面端</h3><ul><li>Windows：v2rayN 或 Clash for Windows，便于订阅导入、规则分流与系统代理。</li><li>macOS：ClashX 或 Surge，可覆盖浏览器、终端与部分增强模式应用。</li><li>Linux：Clash Meta 及图形前端，适合工作站与轻量服务器出站。</li></ul><h3>移动端</h3><ul><li>Android：Clash Meta for Android、Surfboard，支持订阅与分应用代理。</li><li>iOS：Shadowrocket、Stash、Quantumult X，需通过软件官方分发渠道安装后再填入订阅。</li></ul><p>导入成功后建议先测延迟再固定常用节点，并定期点击更新订阅。更多排错见<a href=\"#faq\">常见问题</a>。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>浪浪山(CrossWall)是机场还是传统 VPN 客户端？</summary><p>浪浪山(CrossWall)以机场订阅提供节点与流量额度，用户自行选择 Clash、Shadowrocket 等客户端连接。它同时承担 VPN 梯子与网络加速器功能，官网负责套餐说明、导入步骤与下载指引。</p></details><details><summary>如何获取并更新订阅？</summary><p>订阅生效后在账户中心复制订阅地址，粘贴到客户端的订阅栏并执行更新。节点增减会随订阅同步，无需逐条手工添加服务器。</p></details><details><summary>基础版能否稳定使用流媒体？</summary><p>基础版包含基础流媒体解锁，部分平台仍可能需要换节点。需要全节点原生解锁与更多线路时，请选择旗舰版或团队版。</p></details><details><summary>超过设备数上限会怎样？</summary><p>同时在线超过套餐台数时，新会话可能无法建立或旧会话被断开。请减少终端、错峰使用或升级到更高档位。</p></details><details><summary>年付和月付在流量上有区别吗？</summary><p>年付只改变结算周期与总价（基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年），流量仍按月重置，不会把全年流量一次性发放。</p></details><details><summary>团队版如何配合企业路由？</summary><p>团队版提供更高流量、更多设备与 VIP 节点，并支持按域名或 IP 定制分流。具体策略由专属客户经理协助配置，避免全员共用同一出口造成拥塞。</p></details></section><aside class=\"ad\" id=\"ads\"><p>广告位：欢迎网络工具、开发者社区与内容平台洽谈文字互换，详情通过官网公示渠道联系。</p></aside><section><h2>友情链接</h2><div class=\"links\"><a href=\"#\">协议与客户端文档</a><a href=\"#\">开源代理社区</a><a href=\"#\">流媒体区域说明</a><a href=\"#\">公共延迟检测</a></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>浪浪山(CrossWall) 官方网站 · VPN 加速器与机场订阅服务</p><nav aria-label=\"网站地图\" id=\"sitemap\"><p>网站地图：<a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">套餐对比</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">常见问题</a></p></nav><p>© 浪浪山(CrossWall)。套餐、节点与解锁范围以实际开通页面为准。请从软件原厂渠道下载客户端，再导入本站官方订阅。</p></div></footer>",
+          "hash": "b333317fb8782f9a1495c6f62974fdb480ced361e722db60addb84c4e0ce271e",
+          "seo": {
+            "title": "浪浪山(CrossWall)官网 - VPN梯子加速器与机场订阅客户端下载",
+            "keywords": "浪浪山,CrossWall,浪浪山VPN,浪浪山机场,VPN梯子,网络加速器,机场订阅,客户端下载,官网下载,IPLC专线,流媒体解锁",
+            "description": "浪浪山(CrossWall)官方网站提供稳定VPN梯子与机场订阅，覆盖多端客户端下载、流媒体解锁、游戏加速及团队组网方案，套餐透明、节点优质，助您安全畅连全球网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zhongcanjiameng.cn",
+    "host": "p-01a49454d6.zhongcanjiameng.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "zhongcanjiameng.cn",
+      "url": "https://zhongcanjiameng.cn/",
+      "label": "轻云(Qingyun)",
+      "apex": "zhongcanjiameng.cn",
+      "kind": null,
+      "identity": "qnajnq/page-ce699d6f17dc1ae399872df3"
+    },
+    {
+      "host": "ezaobpo.cn",
+      "url": "https://ezaobpo.cn/",
+      "label": "浪浪山(CrossWall)",
+      "apex": "ezaobpo.cn",
+      "kind": null,
+      "identity": "bxfexj6h/page-e2b0189d360377f0a106a166"
+    },
+    {
+      "host": "ffzjggm.cn",
+      "url": "https://ffzjggm.cn/",
+      "label": "浪浪山(CrossWall)",
+      "apex": "ffzjggm.cn",
+      "kind": null,
+      "identity": "qe8uaxxpf/page-6f9fa605edf5288bf18bca15"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "487b751c2aa44023d6ac42a40bb90808cb31e46476c61762c3819eb4b16f1384",
+    "sitemap.xml": "bd8640eef678c243b658d04862384a2b9fc96e587c88595cd2f882de791ad176",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cecbcaa58966a90899b7e78c016e6b294d557ed4e94cc8faad0a44b6190240b2",
+    "robots.txt": "8ee67b6cb07a44afa516cf4fe9572cf0acae05cb250d1adea14a26fe4bbe35f1",
+    "9bd140d8022255ebc7756a1bf0dd5c0d.txt": "f6eebf079f5fd1d17ee17e127f2cc7109fdec314251f16ee550a27e1aa47f793"
+  },
+  "revision": "4d48e1a62668490fc459f11c518b638b5b4b3e0577a361f0163ecc2f2d4a33a4"
+}
